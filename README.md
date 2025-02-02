@@ -23,4 +23,4 @@ To run this project, you'll need a modern web browser.
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/travel-website.git
+   https://github.com/Lazee999/Travel-Website---Sample.git
